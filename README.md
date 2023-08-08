@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Uploading image.png…]()
+![image](https://github.com/emilytin0206/emilytin0206/assets/59383605/b69410a5-9971-46ab-bd64-ae85c7bfe54b)
+
 
 
 <!--
