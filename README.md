@@ -1,5 +1,6 @@
 ### Hi there 👋
-![image](https://github.com/emilytin0206/emilytin0206/assets/59383605/ac9d0d81-c0b5-4346-b69a-46d44986ddf7)
+![Uploading image.png…]()
+
 
 <!--
 **emilytin0206/emilytin0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
