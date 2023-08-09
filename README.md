@@ -1,5 +1,5 @@
 ### Hi there 👋
-![[image](./gif/start_AdobeExpress.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![[](./gif/start_AdobeExpress.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 
